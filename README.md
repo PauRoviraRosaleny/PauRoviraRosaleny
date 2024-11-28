@@ -36,8 +36,8 @@ A simple web made with Laravel
 
 
 ## GitHub Stats
-!GitHub Stats
-!Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 

@@ -10,16 +10,19 @@
 I'm Pau, a passionate software developer with experience in Web development. I love learning and sharing knowledge about technology and programming.
 
 🌱 I’m currently learning: [PHP Laravel]
+
 📫 How to reach me: [paurovira004@gmail.com]
+
 ⚡ Fun fact: [I love reading and playing videogames]
+
 
 
 ## Technologies and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP]
-![C#]
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)

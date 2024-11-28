@@ -28,7 +28,7 @@ I'm Pau, a passionate software developer with experience in Web development. I l
 
 ## Featured Projects
 
-### ([https://github.com/your-profile/project1](https://github.com/PauRoviraRosaleny/Eurocarting))
+### ([Eurocarting](https://github.com/PauRoviraRosaleny/Eurocarting))
 A simple web made with Laravel
 
 

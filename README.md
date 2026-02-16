@@ -9,7 +9,7 @@
 ## About Me
 I'm Pau, a passionate software developer with experience in Web development. I love learning and sharing knowledge about technology and programming.
 
-🌱 I’m currently learning: [PHP Laravel]
+🌱 I’m currently learning: [Java Spring Boot]
 
 📫 How to reach me: [paurovira004@gmail.com]
 

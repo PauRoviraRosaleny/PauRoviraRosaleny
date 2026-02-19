@@ -34,6 +34,8 @@ I'm Pau, a passionate software developer with experience in Web development. I l
 ### ([Eurocarting](https://github.com/PauRoviraRosaleny/Eurocarting))
 A simple web made with Laravel
 
+### ([spring-boot-task-manager](https://github.com/PauRoviraRosaleny/spring-boot-task-manager))
+A Secure task management system built with Java 25 and Spring Boot
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauRoviraRosaleny&show_icons=true&theme=radical)
